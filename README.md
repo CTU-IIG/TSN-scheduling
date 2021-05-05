@@ -1,5 +1,5 @@
 # TSN-scheduling
-Additional materials to the paper "Large-Scale Time-Triggered Scheduling in IEEE 802.1Qbv Time-Sensitive Networks"
+Additional materials to the paper "Large-Scale Periodic Scheduling in Time-Sensitive Networks"
 
 Instances: https://drive.google.com/file/d/1AAb8WRSlQ-fx2xXL0srMwomzIRL-JGr6/view?usp=sharing
 
